@@ -1,0 +1,31 @@
+Cyberoise:
+   - ASCII and Latin-1
+   - Russian (*not* full Cyrillic)
+
+Decolue:
+   - ASCII and Latin-1
+
+Funstella:
+   - ASCII and Latin-1
+   - Hiragana and katakana
+   - Fullwidth and halfwidth
+   - Some Japanese symbols
+   - Extra characters: ↑↓←→
+   (to-do: check if anything is missing)
+
+Normaleste:
+   - ASCII and Latin-1
+
+Pixeletter:
+   - ASCII and Latin-1
+   - Russian (*not* full Cyrillic)
+
+Roman Teal:
+   - ASCII and Latin-1
+
+Video Glau:
+   - ASCII and Latin-1
+   - Latin Extended A
+   - Box drawing
+   - Solid blocks
+   - Arrows
