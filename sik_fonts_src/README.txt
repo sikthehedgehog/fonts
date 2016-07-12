@@ -9,6 +9,3 @@ To generate the TTF files, make a copy of the SFD file, then:
 - Select all, generate hints
 
 And then generate the TTF file. Or whatever format you prefer to use.
-
-NOTE: Video Glau is quite buggy with some of the arrows due to serious
-overlap abuse... that's something to be fixed in the future.

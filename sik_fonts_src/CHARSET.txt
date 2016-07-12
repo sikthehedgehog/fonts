@@ -26,6 +26,7 @@ Roman Teal:
 Video Glau:
    - ASCII and Latin-1
    - Latin Extended A
+   - Tifinagh
    - Box drawing
    - Solid blocks
    - Arrows
