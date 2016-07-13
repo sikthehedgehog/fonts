@@ -15,6 +15,7 @@ Funstella:
 
 Normaleste:
    - ASCII and Latin-1
+   - Cyrillic (lower part U+0400..U+045F)
 
 Pixeletter:
    - ASCII and Latin-1
