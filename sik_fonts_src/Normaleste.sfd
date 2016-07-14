@@ -5,8 +5,8 @@ FamilyName: Normaleste
 Weight: Regular
 Copyright: Made by Sik in 2016\nDo whatever you want with this font, no credit needed
 UComments: "2016-3-3: Created." 
-FontLog: "1.2 - Cyrillic (lower part)+AAoA-1.11 - Metadata update+AAoA-1.1 - Latin-1+AAoA-1.01 - Some fixes+AAoA-1.0 - ASCII+AAoA-0.2 - Numbers+AAoA-0.1 - Letters" 
-Version: 1.2
+FontLog: "1.21 - Tweaks on +BEYA and co.+AAoA-1.2 - Cyrillic (lower part)+AAoA-1.11 - Metadata update+AAoA-1.1 - Latin-1+AAoA-1.01 - Some fixes+AAoA-1.0 - ASCII+AAoA-0.2 - Numbers+AAoA-0.1 - Letters" 
+Version: 1.21
 ItalicAngle: 0
 UnderlinePosition: -2
 UnderlineWidth: 2
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1457045742
-ModificationTime: 1468437512
+ModificationTime: 1468475715
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -5763,63 +5763,65 @@ EndChar
 
 StartChar: afii10091
 Encoding: 1097 1097 252
-Width: 24
+Width: 28
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-18 -8 m 29
- 18 2 l 25
- 22 2 l 25
+22 -8 m 25
+ 22 4 l 25
+ 26 4 l 25
+ 26 -8 l 25
  22 -8 l 25
- 18 -8 l 29
 EndSplineSet
 Refer: 251 1096 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10043
 Encoding: 1065 1065 253
-Width: 32
+Width: 36
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-26 -8 m 29
- 26 2 l 25
- 30 2 l 25
+30 -8 m 25
+ 30 4 l 29
+ 34 4 l 29
+ 34 -8 l 25
  30 -8 l 25
- 26 -8 l 29
 EndSplineSet
 Refer: 250 1064 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10040
 Encoding: 1062 1062 254
-Width: 24
+Width: 28
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-2 0 m 29
+2 0 m 25
  2 28 l 25
  6 28 l 25
  6 4 l 25
  18 4 l 25
  18 28 l 25
- 22 28 l 25
+ 22 28 l 17
+ 22 4 l 1
+ 26 4 l 1
+ 26 -8 l 9
  22 -8 l 25
- 18 -8 l 25
- 18 0 l 25
- 2 0 l 29
+ 22 0 l 25
+ 2 0 l 25
 EndSplineSet
 EndChar
 
 StartChar: afii10088
 Encoding: 1094 1094 255
-Width: 20
+Width: 24
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -5831,10 +5833,12 @@ SplineSet
  6 4 l 25
  14 4 l 25
  14 20 l 25
- 18 20 l 25
+ 18 20 l 17
+ 18 4 l 1
+ 22 4 l 1
+ 22 -8 l 9
  18 -8 l 25
- 14 -8 l 25
- 14 0 l 25
+ 18 0 l 25
  2 0 l 25
 EndSplineSet
 EndChar
