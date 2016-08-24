@@ -5,8 +5,8 @@ FamilyName: Funstella
 Weight: Regular
 Copyright: Remade by Sik in 2015, 2016\nFeel free to use and modify as you wish
 UComments: "2015-12-9: Created." 
-FontLog: "1.22 - Changed font name and copyright+AAoA-1.21 - Line height fix+AAoA-1.2 - Proper lowercase letters (based on lowercase mod)+AAoA-1.1 - Revision including missing characters+AAoA-1.0 - Original font missing many characters" 
-Version: 1.22
+FontLog: "1.23 - Tweaked +MAIA and +MAEACgAA-1.22 - Changed font name and copyright+AAoA-1.21 - Line height fix+AAoA-1.2 - Proper lowercase letters (based on lowercase mod)+AAoA-1.1 - Revision including missing characters+AAoA-1.0 - Original font missing many characters" 
+Version: 1.23
 ItalicAngle: 0
 UnderlinePosition: -2
 UnderlineWidth: 2
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1449662317
-ModificationTime: 1467888075
+ModificationTime: 1470711202
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 54 27 9
+WinInfo: 12285 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -10580,7 +10580,7 @@ EndChar
 
 StartChar: uni3002
 Encoding: 12290 12290 531
-Width: 12
+Width: 21
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -10692,7 +10692,7 @@ EndChar
 
 StartChar: uni3001
 Encoding: 12289 12289 538
-Width: 12
+Width: 21
 VWidth: 0
 Flags: HW
 LayerCount: 2

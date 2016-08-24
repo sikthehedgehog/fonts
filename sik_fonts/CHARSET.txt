@@ -1,32 +1,39 @@
 Cyberoise:
-   - ASCII and Latin-1
+   - U+0000..U+00FF ASCII and Latin-1
    - Russian (*not* full Cyrillic)
 
 Decolue:
-   - ASCII and Latin-1
+   - U+0000..U+00FF ASCII and Latin-1
 
 Funstella:
-   - ASCII and Latin-1
-   - Hiragana and katakana
-   - Fullwidth and halfwidth
-   - Some Japanese symbols
+   - U+0000..U+00FF ASCII and Latin-1
+   - U+3040..U+30FF Hiragana and katakana
+   - U+FF00..U+FF9F Fullwidth and halfwidth (without hangul)
+   - Some Japanese symbols: 。、「」『』【】 (and U+3000)
    - Extra characters: ↑↓←→
    (to-do: check if anything is missing)
 
 Normaleste:
-   - ASCII and Latin-1
-   - Cyrillic (lower part U+0400..U+045F)
+   - U+0000..U+00FF ASCII and Latin-1
+   - U+0100..U+017F Latin Extended A
+   - U+0400..U+045F Cyrillic (lower part)
+
+Pinlight:
+   - U+0000..U+00FF ASCII and Latin-1
 
 Pixeletter:
-   - ASCII and Latin-1
+   - U+0000..U+00FF ASCII and Latin-1
    - Russian (*not* full Cyrillic)
 
 Roman Teal:
-   - ASCII and Latin-1
+   - U+0000..U+00FF ASCII and Latin-1
+   - U+0100..U+017F Latin Extended A
 
 Video Glau:
-   - ASCII and Latin-1
-   - Latin Extended A
-   - Box drawing
-   - Solid blocks
-   - Arrows
+   - U+0000..U+00FF ASCII and Latin-1
+   - U+0100..U+017F Latin Extended A
+   - U+0400..U+045F Cyrillic (lower part)
+   - U+2190..U+21FF Arrows
+   - U+2500..U+257F Box drawing
+   - U+2580..U+259F Solid blocks
+   - U+2D30..U+2D7F Tifinagh
