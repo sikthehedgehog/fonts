@@ -1,6 +1,6 @@
 Cyberoise:
    - U+0000..U+00FF ASCII and Latin-1
-   - Russian (*not* full Cyrillic)
+   - U+0400..U+045F Cyrillic (lower part)
 
 Decolue:
    - U+0000..U+00FF ASCII and Latin-1
