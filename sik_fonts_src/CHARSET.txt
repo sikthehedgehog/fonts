@@ -23,7 +23,8 @@ Pinlight:
 
 Pixeletter:
    - U+0000..U+00FF ASCII and Latin-1
-   - Russian (*not* full Cyrillic)
+   - U+0100..U+017F Latin Extended A
+   - U+0400..U+045F Cyrillic (lower part)
 
 Roman Teal:
    - U+0000..U+00FF ASCII and Latin-1
@@ -32,6 +33,7 @@ Roman Teal:
 Video Glau:
    - U+0000..U+00FF ASCII and Latin-1
    - U+0100..U+017F Latin Extended A
+   - U+0370..U+03FF Greek
    - U+0400..U+045F Cyrillic (lower part)
    - U+2190..U+21FF Arrows
    - U+2500..U+257F Box drawing
