@@ -39,4 +39,4 @@ Video Glau:
    - U+2500..U+257F Box drawing
    - U+2580..U+259F Solid blocks
    - U+2D30..U+2D7F Tifinagh
-   - U+1F5A5..U+1F5DD (some UI elements)
+   - Some UI elements (see ICONS.txt)
