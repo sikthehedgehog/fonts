@@ -30,6 +30,7 @@ Pixeletter:
 Roman Teal:
    - U+0000..U+00FF ASCII and Latin-1
    - U+0100..U+017F Latin Extended A
+   - U+0370..U+03FF Greek
    - U+0400..U+045F Cyrillic (lower part)
 
 Video Glau:
