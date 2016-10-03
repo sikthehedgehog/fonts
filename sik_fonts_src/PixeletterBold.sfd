@@ -5,8 +5,8 @@ FamilyName: Pixeletter
 Weight: Bold
 Copyright: Made by Sik in 2016\nDo whatever you want with this font, no credit needed
 UComments: "2016-3-3: Created." 
-FontLog: "1.3 - Latin Extended A+AAoA-1.23 - Fixed +BCYA and +BCkACgAA-1.22 - Metadata update+AAoA-1.21 - Cyrillic (lower block)+AAoA-1.2 - Cyrillic (Russian only)+AAoA-1.12 - +ACIA-c+ACIA wasn't easy to read+AAoA-1.11 - Some tweak I forgot about+AAoA-1.1 - Latin-1+AAoA-1.0 - ASCII" 
-Version: 1.3
+FontLog: "1.4 - Greek+AAoA-1.3 - Latin Extended A+AAoA-1.23 - Fixed +BCYA and +BCkACgAA-1.22 - Metadata update+AAoA-1.21 - Cyrillic (lower block)+AAoA-1.2 - Cyrillic (Russian only)+AAoA-1.12 - +ACIA-c+ACIA wasn't easy to read+AAoA-1.11 - Some tweak I forgot about+AAoA-1.1 - Latin-1+AAoA-1.0 - ASCII" 
+Version: 1.4
 DefaultBaseFilename: PixeletterBold
 ItalicAngle: 0
 UnderlinePosition: -2
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1457045742
-ModificationTime: 1472248819
+ModificationTime: 1475473615
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -51,14 +51,14 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 162 27 9
+WinInfo: 864 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
 0 18 m 25
  14 18 l 29
 EndSplineSet
-BeginChars: 65536 416
+BeginChars: 65536 551
 
 StartChar: I
 Encoding: 73 73 0
@@ -4827,27 +4827,27 @@ EndChar
 
 StartChar: uni00B5
 Encoding: 181 181 160
-Width: 14
+Width: 16
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-7 4 m 29
- 9 4 l 25
+9 2 m 25
  9 10 l 25
- 13 10 l 25
- 13 0 l 25
- 9 0 l 25
+ 13 10 l 17
+ 13 2 l 1
+ 15 2 l 1
+ 15 0 l 9
+ 11 0 l 25
+ 11 2 l 25
  9 2 l 25
- 7 2 l 25
- 7 4 l 29
 1 -4 m 25
  1 10 l 25
  5 10 l 25
  5 2 l 25
- 7 2 l 25
- 7 0 l 25
+ 9 2 l 25
+ 9 0 l 25
  5 0 l 25
  5 -4 l 25
  1 -4 l 25
@@ -11836,6 +11836,3357 @@ SplineSet
  7 10 l 25
 EndSplineSet
 Refer: 39 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Alpha
+Encoding: 913 913 416
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 54 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Beta
+Encoding: 914 914 417
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 25 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Epsilon
+Encoding: 917 917 418
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 5 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eta
+Encoding: 919 919 419
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 51 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iota
+Encoding: 921 921 420
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 0 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Kappa
+Encoding: 922 922 421
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 10 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Mu
+Encoding: 924 924 422
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 40 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Nu
+Encoding: 925 925 423
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 53 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omicron
+Encoding: 927 927 424
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rho
+Encoding: 929 929 425
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 35 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tau
+Encoding: 932 932 426
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 19 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Upsilon
+Encoding: 933 933 427
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 34 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Chi
+Encoding: 935 935 428
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 14 88 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zeta
+Encoding: 918 918 429
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 16 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: kappa
+Encoding: 954 954 430
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 213 1082 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gamma
+Encoding: 915 915 431
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 222 1043 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Sigma
+Encoding: 931 931 432
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 17
+ 1 2 l 5
+ 3 2 l 1
+ 3 4 l 9
+ 5 4 l 25
+ 5 6 l 25
+ 7 6 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 10 l 25
+ 3 10 l 17
+ 3 12 l 1
+ 1 12 l 1
+ 1 14 l 9
+ 13 14 l 25
+ 13 12 l 25
+ 7 12 l 25
+ 7 10 l 25
+ 9 10 l 25
+ 9 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 7 4 l 25
+ 7 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 1 0 l 17
+EndSplineSet
+EndChar
+
+StartChar: Pi
+Encoding: 928 928 433
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 220 1055 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: pi
+Encoding: 960 960 434
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 29
+ 1 2 l 25
+ 3 2 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 10 l 25
+ 15 10 l 25
+ 15 8 l 25
+ 13 8 l 25
+ 13 2 l 25
+ 15 2 l 25
+ 15 0 l 25
+ 11 0 l 25
+ 11 2 l 25
+ 9 2 l 25
+ 9 8 l 25
+ 7 8 l 25
+ 7 2 l 25
+ 5 2 l 25
+ 5 0 l 25
+ 1 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: omicron
+Encoding: 959 959 435
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 2 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: mu
+Encoding: 956 956 436
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 160 181 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eta
+Encoding: 951 951 437
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 10 m 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 -4 l 29
+ 9 -4 l 29
+ 9 8 l 25
+ 7 8 l 25
+ 7 10 l 25
+1 0 m 25
+ 1 10 l 25
+ 5 10 l 25
+ 5 8 l 25
+ 7 8 l 25
+ 7 6 l 25
+ 5 6 l 25
+ 5 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: iota
+Encoding: 953 953 438
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 0 m 25
+ 5 0 l 25
+ 5 2 l 25
+ 3 2 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 10 l 25
+ 7 10 l 25
+ 7 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: tau
+Encoding: 964 964 439
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 10 m 29
+ 13 10 l 25
+ 13 8 l 25
+ 9 8 l 25
+ 9 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+ 5 2 l 25
+ 5 8 l 25
+ 1 8 l 25
+ 1 10 l 29
+EndSplineSet
+EndChar
+
+StartChar: upsilon
+Encoding: 965 965 440
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 2 m 29
+ 1 10 l 25
+ 5 10 l 25
+ 5 2 l 25
+ 9 2 l 25
+ 9 8 l 25
+ 7 8 l 25
+ 7 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 29
+EndSplineSet
+EndChar
+
+StartChar: omega
+Encoding: 969 969 441
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 0 m 29
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 7 10 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 15 8 l 25
+ 15 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 9 0 l 25
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: Alphatonos
+Encoding: 902 902 442
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 136 193 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Epsilontonos
+Encoding: 904 904 443
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 125 201 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iotatonos
+Encoding: 906 906 444
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 132 205 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omicrontonos
+Encoding: 908 908 445
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 143 211 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Upsilontonos
+Encoding: 910 910 446
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 159 221 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Etatonos
+Encoding: 905 905 447
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 14 m 29
+ 5 16 l 29
+ 7 16 l 29
+ 7 18 l 29
+ 11 18 l 29
+ 11 16 l 29
+ 9 16 l 29
+ 9 14 l 29
+ 5 14 l 29
+1 0 m 25
+ 1 12 l 25
+ 5 12 l 25
+ 5 8 l 25
+ 9 8 l 25
+ 9 12 l 25
+ 13 12 l 25
+ 13 0 l 25
+ 9 0 l 25
+ 9 6 l 25
+ 5 6 l 25
+ 5 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: Upsilon1
+Encoding: 978 978 448
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 14 m 29
+ 5 14 l 25
+ 5 12 l 25
+ 9 12 l 25
+ 9 14 l 25
+ 13 14 l 25
+ 13 12 l 25
+ 11 12 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 0 l 25
+ 5 0 l 25
+ 5 8 l 25
+ 3 8 l 25
+ 3 12 l 25
+ 1 12 l 25
+ 1 14 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03D4
+Encoding: 980 980 449
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 18 m 29
+ 13 16 l 29
+ 9 16 l 29
+ 9 18 l 29
+ 13 18 l 29
+1 16 m 29
+ 1 18 l 29
+ 5 18 l 29
+ 5 16 l 29
+ 1 16 l 29
+EndSplineSet
+Refer: 448 978 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03D3
+Encoding: 979 979 450
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 14 m 29
+ 5 16 l 29
+ 7 16 l 29
+ 7 18 l 29
+ 11 18 l 29
+ 11 16 l 29
+ 9 16 l 29
+ 9 14 l 29
+ 5 14 l 29
+1 12 m 25
+ 5 12 l 25
+ 5 10 l 25
+ 9 10 l 25
+ 9 12 l 25
+ 13 12 l 25
+ 13 10 l 25
+ 11 10 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 0 l 25
+ 5 0 l 25
+ 5 6 l 25
+ 3 6 l 25
+ 3 10 l 25
+ 1 10 l 25
+ 1 12 l 25
+EndSplineSet
+EndChar
+
+StartChar: beta
+Encoding: 946 946 451
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 -4 m 29
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 13 12 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 13 6 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+ 9 2 l 25
+ 9 6 l 25
+ 7 6 l 25
+ 7 8 l 25
+ 9 8 l 25
+ 9 12 l 25
+ 5 12 l 25
+ 5 -4 l 25
+ 1 -4 l 29
+EndSplineSet
+EndChar
+
+StartChar: alpha
+Encoding: 945 945 452
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 29
+ 7 2 l 25
+ 7 4 l 25
+ 9 4 l 25
+ 9 6 l 25
+ 7 6 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 2 l 29
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 9 10 l 25
+ 9 8 l 25
+ 11 8 l 25
+ 11 10 l 25
+ 15 10 l 25
+ 15 8 l 25
+ 13 8 l 25
+ 13 2 l 25
+ 15 2 l 25
+ 15 0 l 25
+ 11 0 l 25
+ 11 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: epsilon
+Encoding: 949 949 453
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 0 m 29
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 1 6 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 5 8 l 25
+ 5 6 l 25
+ 11 6 l 25
+ 11 4 l 25
+ 5 4 l 25
+ 5 2 l 25
+ 13 2 l 25
+ 13 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03F5
+Encoding: 1013 1013 454
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 275 1108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F6
+Encoding: 1014 1014 455
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 242 1101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F7
+Encoding: 1015 1015 456
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 184 222 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F8
+Encoding: 1016 1016 457
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 177 254 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03DC
+Encoding: 988 988 458
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 6 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03FA
+Encoding: 1018 1018 459
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 40 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F2
+Encoding: 1010 1010 460
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 4 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni037B
+Encoding: 891 891 461
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 4 99 S -1 0 0 1 14 0 2
+EndChar
+
+StartChar: uni037F
+Encoding: 895 895 462
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 12 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F3
+Encoding: 1011 1011 463
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 58 106 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni037E
+Encoding: 894 894 464
+Width: 8
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 81 59 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: anoteleia
+Encoding: 903 903 465
+Width: 8
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 161 183 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F9
+Encoding: 1017 1017 466
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03FD
+Encoding: 1021 1021 467
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 67 S -1 0 0 1 14 0 2
+EndChar
+
+StartChar: rho
+Encoding: 961 961 468
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 -4 m 29
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+ 9 2 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 2 l 25
+ 5 2 l 25
+ 5 -4 l 25
+ 1 -4 l 29
+EndSplineSet
+EndChar
+
+StartChar: phi
+Encoding: 966 966 469
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 2 m 29
+ 13 2 l 29
+ 13 8 l 29
+ 11 8 l 29
+ 11 2 l 29
+1 2 m 25
+ 1 8 l 25
+ 5 8 l 25
+ 5 2 l 25
+ 7 2 l 25
+ 7 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+ 15 10 l 25
+ 15 8 l 25
+ 17 8 l 25
+ 17 2 l 25
+ 15 2 l 25
+ 15 0 l 25
+ 11 0 l 25
+ 11 -4 l 25
+ 7 -4 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+EndSplineSet
+EndChar
+
+StartChar: sigma
+Encoding: 963 963 470
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 29
+ 7 2 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 2 l 29
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: Iotadieresis
+Encoding: 938 938 471
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 129 207 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Upsilondieresis
+Encoding: 939 939 472
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 401 376 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omega
+Encoding: 937 937 473
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 29
+ 1 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 13 14 l 25
+ 13 12 l 25
+ 15 12 l 25
+ 15 4 l 25
+ 13 4 l 25
+ 13 2 l 25
+ 15 2 l 25
+ 15 0 l 25
+ 9 0 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 12 l 25
+ 5 12 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 0 l 25
+ 1 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03FB
+Encoding: 1019 1019 474
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 -4 m 29
+ 1 10 l 25
+ 5 10 l 25
+ 5 8 l 25
+ 7 8 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 8 l 25
+ 11 8 l 25
+ 11 10 l 25
+ 15 10 l 25
+ 15 0 l 25
+ 11 0 l 25
+ 11 4 l 25
+ 9 4 l 25
+ 9 2 l 25
+ 7 2 l 25
+ 7 4 l 25
+ 5 4 l 25
+ 5 -4 l 29
+ 1 -4 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03D8
+Encoding: 984 984 475
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 25
+ 9 2 l 25
+ 9 12 l 25
+ 5 12 l 25
+ 5 2 l 25
+1 2 m 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 13 12 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 17
+ 9 0 l 1
+ 9 -4 l 5
+ 5 -4 l 1
+ 5 0 l 1
+ 3 0 l 9
+ 3 2 l 25
+ 1 2 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03D9
+Encoding: 985 985 476
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 25
+ 9 2 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 2 l 25
+1 2 m 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 17
+ 9 0 l 1
+ 9 -4 l 5
+ 5 -4 l 1
+ 5 0 l 1
+ 3 0 l 9
+ 3 2 l 25
+ 1 2 l 25
+EndSplineSet
+EndChar
+
+StartChar: omega1
+Encoding: 982 982 477
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 8 m 29
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 8 l 25
+ 5 8 l 29
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 10 l 25
+ 15 10 l 25
+ 15 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 9 0 l 25
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: nu
+Encoding: 957 957 478
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 2 m 17
+ 3 6 l 1
+ 1 6 l 1
+ 1 10 l 9
+ 5 10 l 17
+ 5 6 l 1
+ 7 6 l 1
+ 7 4 l 9
+ 9 4 l 25
+ 9 8 l 25
+ 7 8 l 25
+ 7 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 4 l 25
+ 11 4 l 17
+ 11 2 l 1
+ 9 2 l 1
+ 9 0 l 9
+ 5 0 l 25
+ 5 2 l 25
+ 3 2 l 17
+EndSplineSet
+EndChar
+
+StartChar: uni03FC
+Encoding: 1020 1020 479
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 4 m 29
+ 9 4 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 4 l 29
+1 -4 m 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 4 l 25
+ 11 4 l 25
+ 11 2 l 25
+ 5 2 l 25
+ 5 0 l 25
+ 11 0 l 25
+ 11 -2 l 25
+ 5 -2 l 25
+ 5 -4 l 25
+ 1 -4 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03DF
+Encoding: 991 991 480
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 5 10 l 25
+ 5 12 l 25
+ 7 12 l 25
+ 7 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 9 12 l 25
+ 9 10 l 25
+ 7 10 l 25
+ 7 8 l 25
+ 13 8 l 25
+ 13 6 l 25
+ 11 6 l 25
+ 11 4 l 25
+ 9 4 l 25
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 5 2 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 1 6 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03DE
+Encoding: 990 990 481
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 5 10 l 25
+ 5 12 l 25
+ 1 12 l 25
+ 1 14 l 25
+ 7 14 l 25
+ 7 12 l 25
+ 9 12 l 25
+ 9 10 l 25
+ 7 10 l 25
+ 7 8 l 25
+ 13 8 l 25
+ 13 6 l 25
+ 11 6 l 25
+ 11 4 l 25
+ 9 4 l 25
+ 9 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+ 5 2 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 1 6 l 29
+EndSplineSet
+EndChar
+
+StartChar: sigma1
+Encoding: 962 962 482
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 0 m 29
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 6 l 25
+ 9 6 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+ 11 0 l 25
+ 11 -2 l 25
+ 9 -2 l 25
+ 9 -4 l 25
+ 5 -4 l 25
+ 5 -2 l 25
+ 7 -2 l 25
+ 7 0 l 25
+ 3 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: Psi
+Encoding: 936 936 483
+Width: 18
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+1 14 m 29
+ 5 14 l 25
+ 5 8 l 25
+ 7 8 l 25
+ 7 14 l 25
+ 11 14 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 14 l 25
+ 17 14 l 25
+ 17 8 l 25
+ 15 8 l 25
+ 15 6 l 25
+ 11 6 l 25
+ 11 0 l 25
+ 7 0 l 25
+ 7 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 14 l 29
+EndSplineSet
+EndChar
+
+StartChar: psi
+Encoding: 968 968 484
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 10 m 29
+ 5 10 l 29
+ 5 2 l 29
+ 7 2 l 29
+ 7 10 l 29
+ 11 10 l 29
+ 11 2 l 29
+ 13 2 l 29
+ 13 10 l 29
+ 17 10 l 29
+ 17 2 l 29
+ 15 2 l 29
+ 15 0 l 29
+ 11 0 l 29
+ 11 -4 l 29
+ 7 -4 l 29
+ 7 0 l 29
+ 3 0 l 29
+ 3 2 l 29
+ 1 2 l 29
+ 1 10 l 29
+EndSplineSet
+EndChar
+
+StartChar: Theta
+Encoding: 920 920 485
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 8 m 29
+ 9 8 l 25
+ 9 12 l 25
+ 5 12 l 25
+ 5 8 l 29
+5 2 m 25
+ 9 2 l 25
+ 9 6 l 25
+ 5 6 l 25
+ 5 2 l 25
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 13 12 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: theta
+Encoding: 952 952 486
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 8 m 29
+ 9 8 l 25
+ 9 10 l 25
+ 5 10 l 25
+ 5 8 l 29
+5 4 m 25
+ 9 4 l 25
+ 9 6 l 25
+ 5 6 l 25
+ 5 4 l 25
+5 0 m 25
+ 5 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 10 l 25
+ 3 10 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 9 14 l 25
+ 9 12 l 25
+ 11 12 l 25
+ 11 10 l 25
+ 13 10 l 25
+ 13 4 l 25
+ 11 4 l 25
+ 11 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+ 5 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: Xi
+Encoding: 926 926 487
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 6 m 29
+ 3 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 3 6 l 29
+1 0 m 25
+ 1 4 l 25
+ 5 4 l 25
+ 5 2 l 25
+ 9 2 l 25
+ 9 4 l 25
+ 13 4 l 25
+ 13 0 l 25
+ 1 0 l 25
+1 14 m 25
+ 13 14 l 25
+ 13 10 l 25
+ 9 10 l 25
+ 9 12 l 25
+ 5 12 l 25
+ 5 10 l 25
+ 1 10 l 25
+ 1 14 l 25
+EndSplineSet
+EndChar
+
+StartChar: Lambda
+Encoding: 923 923 488
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 29
+ 1 8 l 25
+ 3 8 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 9 14 l 25
+ 9 12 l 25
+ 11 12 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 0 l 25
+ 9 0 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 0 l 25
+ 1 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: Delta
+Encoding: 916 916 489
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 29
+ 9 2 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 2 l 29
+1 0 m 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 9 14 l 25
+ 9 12 l 25
+ 11 12 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: Phi
+Encoding: 934 934 490
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 4 m 29
+ 13 4 l 25
+ 13 10 l 25
+ 11 10 l 25
+ 11 4 l 29
+7 4 m 25
+ 7 10 l 25
+ 5 10 l 25
+ 5 4 l 25
+ 7 4 l 25
+7 0 m 25
+ 7 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 10 l 25
+ 3 10 l 25
+ 3 12 l 25
+ 7 12 l 25
+ 7 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 15 12 l 25
+ 15 10 l 25
+ 17 10 l 25
+ 17 4 l 25
+ 15 4 l 25
+ 15 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 7 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: phi1
+Encoding: 981 981 491
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 2 m 25
+ 13 2 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 2 l 25
+7 2 m 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 2 l 25
+ 7 2 l 25
+7 -4 m 29
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 7 10 l 25
+ 7 14 l 25
+ 11 14 l 25
+ 11 10 l 25
+ 15 10 l 25
+ 15 8 l 25
+ 17 8 l 25
+ 17 2 l 25
+ 15 2 l 25
+ 15 0 l 25
+ 11 0 l 25
+ 11 -4 l 29
+ 7 -4 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03DA
+Encoding: 986 986 492
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 14 m 29
+ 13 12 l 25
+ 5 12 l 25
+ 5 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 13 0 l 25
+ 13 -2 l 25
+ 11 -2 l 25
+ 11 -4 l 25
+ 5 -4 l 25
+ 5 -2 l 25
+ 9 -2 l 25
+ 9 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 13 14 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03DB
+Encoding: 987 987 493
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 10 m 29
+ 13 8 l 29
+ 5 8 l 29
+ 5 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 13 0 l 25
+ 13 -2 l 25
+ 11 -2 l 25
+ 11 -4 l 25
+ 5 -4 l 25
+ 5 -2 l 25
+ 9 -2 l 25
+ 9 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 29
+ 3 8 l 29
+ 3 10 l 29
+ 13 10 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03D0
+Encoding: 976 976 494
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 8 m 29
+ 9 8 l 25
+ 9 12 l 25
+ 7 12 l 25
+ 7 10 l 25
+ 5 10 l 25
+ 5 8 l 29
+9 2 m 25
+ 9 6 l 25
+ 5 6 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 2 l 25
+ 9 2 l 25
+5 0 m 25
+ 5 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 10 l 25
+ 3 10 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 13 12 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 13 6 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 5 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: theta1
+Encoding: 977 977 495
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 8 m 29
+ 9 12 l 25
+ 7 12 l 25
+ 7 8 l 25
+ 9 8 l 29
+5 2 m 25
+ 9 2 l 25
+ 9 6 l 25
+ 5 6 l 25
+ 5 2 l 25
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 6 l 25
+ 5 6 l 25
+ 5 8 l 25
+ 3 8 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 13 12 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03CF
+Encoding: 975 975 496
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 25
+ 1 14 l 25
+ 5 14 l 25
+ 5 8 l 25
+ 7 8 l 25
+ 7 10 l 25
+ 9 10 l 25
+ 9 14 l 25
+ 13 14 l 25
+ 13 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 6 l 25
+ 11 6 l 25
+ 11 4 l 25
+ 13 4 l 25
+ 13 0 l 17
+ 11 0 l 1
+ 11 -2 l 1
+ 9 -2 l 1
+ 9 -4 l 1
+ 5 -4 l 1
+ 5 -2 l 5
+ 7 -2 l 1
+ 7 0 l 1
+ 9 0 l 9
+ 9 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 5 6 l 25
+ 5 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: delta
+Encoding: 948 948 497
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 29
+ 9 2 l 25
+ 9 6 l 25
+ 5 6 l 25
+ 5 2 l 29
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 5 12 l 25
+ 5 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 13 6 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: tonos
+Encoding: 900 900 498
+Width: 8
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 12 m 25
+ 3 12 l 25
+ 3 14 l 25
+ 7 14 l 25
+ 7 12 l 25
+ 5 12 l 25
+ 5 10 l 25
+ 1 10 l 25
+ 1 12 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni0374
+Encoding: 884 884 499
+Width: 8
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 498 900 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0375
+Encoding: 885 885 500
+Width: 8
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 498 900 S 1 0 0 1 0 -10 2
+EndChar
+
+StartChar: uni0376
+Encoding: 886 886 501
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 226 1048 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0377
+Encoding: 887 887 502
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 227 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0372
+Encoding: 882 882 503
+Width: 18
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+1 14 m 29
+ 17 14 l 25
+ 17 8 l 25
+ 13 8 l 25
+ 13 12 l 25
+ 11 12 l 25
+ 11 0 l 25
+ 7 0 l 25
+ 7 12 l 25
+ 5 12 l 25
+ 5 8 l 25
+ 1 8 l 25
+ 1 14 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni0373
+Encoding: 883 883 504
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 14 m 29
+ 13 14 l 25
+ 13 8 l 25
+ 9 8 l 25
+ 9 0 l 25
+ 5 0 l 25
+ 5 8 l 25
+ 1 8 l 25
+ 1 14 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni0370
+Encoding: 880 880 505
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 29
+ 1 14 l 25
+ 5 14 l 25
+ 5 8 l 25
+ 13 8 l 25
+ 13 6 l 25
+ 5 6 l 25
+ 5 0 l 25
+ 1 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni0371
+Encoding: 881 881 506
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 25
+ 1 10 l 29
+ 5 10 l 29
+ 5 6 l 29
+ 13 6 l 29
+ 13 4 l 29
+ 5 4 l 29
+ 5 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03EE
+Encoding: 1006 1006 507
+Width: 18
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 10 m 17
+ 7 10 l 1
+ 7 14 l 1
+ 11 14 l 5
+ 11 10 l 1
+ 17 10 l 9
+ 17 4 l 25
+ 13 4 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 0 l 25
+ 7 0 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 4 l 25
+ 1 4 l 25
+ 1 10 l 17
+EndSplineSet
+EndChar
+
+StartChar: uni03EF
+Encoding: 1007 1007 508
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 10 m 17
+ 5 10 l 1
+ 5 14 l 1
+ 9 14 l 5
+ 9 10 l 1
+ 13 10 l 9
+ 13 4 l 25
+ 9 4 l 25
+ 9 0 l 25
+ 5 0 l 25
+ 5 4 l 25
+ 1 4 l 25
+ 1 10 l 17
+EndSplineSet
+EndChar
+
+StartChar: uni03EA
+Encoding: 1002 1002 509
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 29
+ 9 2 l 25
+ 9 4 l 25
+ 5 4 l 25
+ 5 2 l 29
+1 0 m 25
+ 1 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 5 6 l 25
+ 5 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 1 10 l 25
+ 1 14 l 25
+ 5 14 l 25
+ 5 10 l 25
+ 9 10 l 25
+ 9 14 l 25
+ 13 14 l 25
+ 13 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 6 l 25
+ 11 6 l 25
+ 11 4 l 25
+ 13 4 l 25
+ 13 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03EB
+Encoding: 1003 1003 510
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 29
+ 1 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 5 4 l 25
+ 5 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 10 l 25
+ 5 10 l 25
+ 5 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 1 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03EC
+Encoding: 1004 1004 511
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 8 m 29
+ 5 2 l 25
+ 9 2 l 25
+ 9 8 l 29
+ 5 8 l 29
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 9 14 l 25
+ 9 16 l 25
+ 13 16 l 25
+ 13 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 5 12 l 25
+ 5 10 l 29
+ 11 10 l 29
+ 11 8 l 29
+ 13 8 l 29
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03ED
+Encoding: 1005 1005 512
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 4 m 29
+ 5 2 l 25
+ 9 2 l 25
+ 9 4 l 29
+ 5 4 l 29
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 29
+ 3 8 l 29
+ 3 10 l 29
+ 9 10 l 29
+ 9 12 l 29
+ 13 12 l 29
+ 13 10 l 29
+ 11 10 l 29
+ 11 8 l 29
+ 5 8 l 29
+ 5 6 l 29
+ 11 6 l 29
+ 11 4 l 29
+ 13 4 l 29
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: gamma
+Encoding: 947 947 513
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 10 m 25
+ 5 10 l 25
+ 5 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 -2 l 25
+ 9 -2 l 25
+ 9 -4 l 25
+ 5 -4 l 25
+ 5 -2 l 25
+ 3 -2 l 25
+ 3 4 l 25
+ 5 4 l 25
+ 5 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 10 l 25
+EndSplineSet
+EndChar
+
+StartChar: zeta
+Encoding: 950 950 514
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 0 m 29
+ 3 2 l 25
+ 1 2 l 25
+ 1 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 5 8 l 25
+ 5 10 l 25
+ 7 10 l 25
+ 7 12 l 25
+ 1 12 l 25
+ 1 14 l 25
+ 13 14 l 25
+ 13 12 l 25
+ 11 12 l 25
+ 11 10 l 25
+ 9 10 l 25
+ 9 8 l 25
+ 7 8 l 25
+ 7 6 l 25
+ 5 6 l 25
+ 5 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 13 0 l 25
+ 13 -2 l 25
+ 11 -2 l 25
+ 11 -4 l 25
+ 7 -4 l 25
+ 7 -2 l 25
+ 9 -2 l 25
+ 9 0 l 25
+ 3 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: xi
+Encoding: 958 958 515
+Width: 12
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 25
+ 1 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 1 6 l 25
+ 1 10 l 25
+ 3 10 l 25
+ 3 12 l 25
+ 1 12 l 25
+ 1 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 9 12 l 25
+ 9 10 l 25
+ 5 10 l 25
+ 5 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 5 4 l 25
+ 5 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+ 11 0 l 25
+ 11 -2 l 25
+ 9 -2 l 25
+ 9 -4 l 25
+ 5 -4 l 25
+ 5 -2 l 25
+ 7 -2 l 25
+ 7 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: chi
+Encoding: 967 967 516
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 -4 m 25
+ 1 0 l 25
+ 3 0 l 25
+ 3 4 l 25
+ 5 4 l 25
+ 5 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 10 l 25
+ 5 10 l 25
+ 5 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 0 l 25
+ 13 0 l 25
+ 13 -4 l 25
+ 9 -4 l 25
+ 9 0 l 25
+ 5 0 l 25
+ 5 -4 l 25
+ 1 -4 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03F1
+Encoding: 1009 1009 517
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 -4 m 25
+ 3 -2 l 25
+ 1 -2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 2 l 25
+ 11 2 l 25
+ 11 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+ 9 2 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 2 l 25
+ 5 2 l 25
+ 5 -2 l 25
+ 13 -2 l 29
+ 13 -4 l 29
+ 3 -4 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03F4
+Encoding: 1012 1012 518
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 485 920 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: alphatonos
+Encoding: 940 940 519
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 12 m 29
+ 5 14 l 29
+ 7 14 l 29
+ 7 16 l 29
+ 11 16 l 29
+ 11 14 l 29
+ 9 14 l 29
+ 9 12 l 29
+ 5 12 l 29
+EndSplineSet
+Refer: 452 945 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: epsilontonos
+Encoding: 941 941 520
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 12 m 29
+ 5 14 l 29
+ 7 14 l 29
+ 7 16 l 29
+ 11 16 l 29
+ 11 14 l 29
+ 9 14 l 29
+ 9 12 l 29
+ 5 12 l 29
+EndSplineSet
+Refer: 453 949 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: etatonos
+Encoding: 942 942 521
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 12 m 29
+ 5 14 l 29
+ 7 14 l 29
+ 7 16 l 29
+ 11 16 l 29
+ 11 14 l 29
+ 9 14 l 29
+ 9 12 l 29
+ 5 12 l 29
+EndSplineSet
+Refer: 437 951 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: iotatonos
+Encoding: 943 943 522
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 12 m 29
+ 3 14 l 29
+ 5 14 l 29
+ 5 16 l 29
+ 9 16 l 29
+ 9 14 l 29
+ 7 14 l 29
+ 7 12 l 29
+ 3 12 l 29
+EndSplineSet
+Refer: 438 953 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: upsilontonos
+Encoding: 973 973 523
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 12 m 29
+ 5 14 l 29
+ 7 14 l 29
+ 7 16 l 29
+ 11 16 l 29
+ 11 14 l 29
+ 9 14 l 29
+ 9 12 l 29
+ 5 12 l 29
+EndSplineSet
+Refer: 440 965 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: omegatonos
+Encoding: 974 974 524
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 12 m 29
+ 7 14 l 29
+ 9 14 l 29
+ 9 16 l 29
+ 13 16 l 29
+ 13 14 l 29
+ 11 14 l 29
+ 11 12 l 29
+ 7 12 l 29
+EndSplineSet
+Refer: 441 969 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: omicrontonos
+Encoding: 972 972 525
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 97 243 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03E7
+Encoding: 999 999 526
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 6 m 29
+ 7 8 l 25
+ 5 8 l 25
+ 5 6 l 25
+ 7 6 l 29
+3 0 m 25
+ 3 2 l 25
+ 7 2 l 25
+ 7 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 1 6 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 9 10 l 25
+ 9 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 13 6 l 25
+ 13 4 l 25
+ 11 4 l 25
+ 11 2 l 25
+ 9 2 l 25
+ 9 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E8
+Encoding: 1000 1000 527
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 12 m 29
+ 3 12 l 25
+ 3 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 13 12 l 25
+ 13 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 7 4 l 25
+ 7 2 l 25
+ 5 2 l 25
+ 5 0 l 25
+ 9 0 l 25
+ 9 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+ 11 0 l 25
+ 11 -2 l 25
+ 3 -2 l 25
+ 3 0 l 25
+ 1 0 l 25
+ 1 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 5 4 l 25
+ 5 6 l 25
+ 7 6 l 25
+ 7 8 l 25
+ 9 8 l 25
+ 9 12 l 25
+ 5 12 l 25
+ 5 10 l 25
+ 1 10 l 25
+ 1 12 l 29
+EndSplineSet
+EndChar
+
+StartChar: lambda
+Encoding: 955 955 528
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 0 m 29
+ 1 4 l 25
+ 3 4 l 25
+ 3 8 l 25
+ 5 8 l 25
+ 5 12 l 25
+ 1 12 l 25
+ 1 14 l 25
+ 7 14 l 25
+ 7 12 l 25
+ 9 12 l 25
+ 9 8 l 25
+ 11 8 l 25
+ 11 4 l 25
+ 13 4 l 25
+ 13 0 l 25
+ 9 0 l 25
+ 9 4 l 25
+ 5 4 l 25
+ 5 0 l 25
+ 1 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03E9
+Encoding: 1001 1001 529
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 29
+ 5 0 l 29
+ 9 0 l 29
+ 9 2 l 29
+ 5 2 l 29
+13 2 m 25
+ 13 0 l 25
+ 11 0 l 25
+ 11 -2 l 25
+ 3 -2 l 25
+ 3 0 l 25
+ 1 0 l 25
+ 1 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 8 l 25
+ 5 8 l 25
+ 5 6 l 25
+ 1 6 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 6 l 25
+ 11 6 l 25
+ 11 4 l 25
+ 9 4 l 25
+ 9 2 l 25
+ 13 2 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E4
+Encoding: 996 996 530
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 14 m 25
+ 11 14 l 29
+ 11 12 l 29
+ 7 12 l 25
+ 7 10 l 25
+ 5 10 l 25
+ 5 6 l 25
+ 9 6 l 25
+ 9 8 l 25
+ 13 8 l 25
+ 13 0 l 25
+ 9 0 l 25
+ 9 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 1 6 l 25
+ 1 10 l 25
+ 3 10 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E5
+Encoding: 997 997 531
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 2 m 29
+ 3 2 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 7 10 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 2 l 29
+13 0 m 25
+ 9 0 l 25
+ 9 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 8 l 25
+ 13 8 l 25
+ 13 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E6
+Encoding: 998 998 532
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 10 m 29
+ 11 10 l 25
+ 11 8 l 25
+ 13 8 l 25
+ 13 0 l 25
+ 11 0 l 25
+ 11 -2 l 25
+ 9 -2 l 25
+ 9 -4 l 25
+ 3 -4 l 25
+ 3 -2 l 25
+ 7 -2 l 25
+ 7 0 l 25
+ 9 0 l 25
+ 9 8 l 25
+ 7 8 l 25
+ 7 10 l 29
+1 2 m 25
+ 1 14 l 25
+ 5 14 l 25
+ 5 8 l 25
+ 7 8 l 25
+ 7 6 l 25
+ 5 6 l 25
+ 5 2 l 25
+ 1 2 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E3
+Encoding: 995 995 533
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 7 10 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 15 8 l 25
+ 15 -2 l 25
+ 13 -2 l 25
+ 13 -4 l 17
+ 5 -4 l 5
+ 5 -2 l 1
+ 11 -2 l 1
+ 11 0 l 1
+ 9 0 l 9
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E2
+Encoding: 994 994 534
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 12 l 29
+ 3 12 l 29
+ 3 14 l 29
+ 7 14 l 29
+ 7 12 l 29
+ 5 12 l 29
+ 5 4 l 25
+ 7 4 l 25
+ 7 8 l 29
+ 9 8 l 29
+ 9 4 l 25
+ 11 4 l 25
+ 11 12 l 29
+ 9 12 l 29
+ 9 14 l 29
+ 13 14 l 29
+ 13 12 l 29
+ 15 12 l 29
+ 15 -2 l 25
+ 13 -2 l 25
+ 13 -4 l 17
+ 5 -4 l 1
+ 5 -2 l 1
+ 11 -2 l 1
+ 11 0 l 1
+ 9 0 l 9
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: iotadieresis
+Encoding: 970 970 535
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 14 m 25
+ 9 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 9 14 l 25
+-1 12 m 25
+ -1 14 l 25
+ 3 14 l 25
+ 3 12 l 25
+ -1 12 l 25
+EndSplineSet
+Refer: 438 953 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: upsilondieresis
+Encoding: 971 971 536
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 14 m 29
+ 13 12 l 29
+ 9 12 l 29
+ 9 14 l 29
+ 13 14 l 29
+1 12 m 29
+ 1 14 l 29
+ 5 14 l 29
+ 5 12 l 29
+ 1 12 l 29
+EndSplineSet
+Refer: 440 965 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: iotadieresistonos
+Encoding: 912 912 537
+Width: 10
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 16 m 29
+ 3 18 l 25
+ 9 18 l 25
+ 9 16 l 25
+ 3 16 l 29
+EndSplineSet
+Refer: 535 970 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: upsilondieresistonos
+Encoding: 944 944 538
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 16 m 29
+ 7 16 l 25
+ 7 18 l 25
+ 11 18 l 25
+ 11 16 l 25
+ 9 16 l 25
+ 9 14 l 25
+ 5 14 l 25
+ 5 16 l 29
+EndSplineSet
+Refer: 536 971 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dieresistonos
+Encoding: 901 901 539
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 12 m 25
+ 13 10 l 25
+ 9 10 l 25
+ 9 12 l 25
+ 13 12 l 25
+5 16 m 25
+ 7 16 l 25
+ 7 18 l 25
+ 11 18 l 25
+ 11 16 l 25
+ 9 16 l 25
+ 9 14 l 25
+ 5 14 l 25
+ 5 16 l 25
+1 12 m 25
+ 5 12 l 25
+ 5 10 l 25
+ 1 10 l 25
+ 1 12 l 25
+EndSplineSet
+EndChar
+
+StartChar: Omegatonos
+Encoding: 911 911 540
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 14 m 29
+ 7 16 l 25
+ 9 16 l 25
+ 9 18 l 25
+ 13 18 l 25
+ 13 16 l 25
+ 11 16 l 25
+ 11 14 l 25
+ 7 14 l 29
+1 0 m 25
+ 1 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 10 l 25
+ 3 10 l 25
+ 3 12 l 25
+ 13 12 l 25
+ 13 10 l 25
+ 15 10 l 25
+ 15 4 l 25
+ 13 4 l 25
+ 13 2 l 25
+ 15 2 l 25
+ 15 0 l 25
+ 9 0 l 25
+ 9 4 l 25
+ 11 4 l 25
+ 11 10 l 25
+ 5 10 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 0 l 25
+ 1 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni037A
+Encoding: 890 890 541
+Width: 8
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 2 m 25
+ 1 6 l 25
+ 5 6 l 25
+ 5 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03DD
+Encoding: 989 989 542
+Width: 12
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 -4 m 25
+ 1 -2 l 25
+ 3 -2 l 25
+ 3 12 l 25
+ 5 12 l 25
+ 5 14 l 25
+ 11 14 l 25
+ 11 12 l 25
+ 7 12 l 25
+ 7 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 7 6 l 25
+ 7 -2 l 25
+ 5 -2 l 25
+ 5 -4 l 25
+ 1 -4 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03F0
+Encoding: 1008 1008 543
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 6 m 29
+ 11 6 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 6 l 29
+7 4 m 25
+ 5 4 l 25
+ 5 2 l 25
+ 7 2 l 25
+ 7 4 l 25
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 5 6 l 25
+ 5 8 l 17
+ 1 8 l 1
+ 1 10 l 1
+ 7 10 l 1
+ 7 8 l 1
+ 9 8 l 9
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 15 8 l 25
+ 15 6 l 25
+ 13 6 l 25
+ 13 4 l 25
+ 11 4 l 25
+ 11 2 l 17
+ 15 2 l 1
+ 15 0 l 1
+ 9 0 l 1
+ 9 2 l 1
+ 7 2 l 9
+ 7 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03D7
+Encoding: 983 983 544
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 6 m 25
+ 11 6 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 6 l 25
+7 4 m 25
+ 5 4 l 25
+ 5 2 l 25
+ 7 2 l 25
+ 7 4 l 25
+3 0 m 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 5 6 l 25
+ 5 8 l 17
+ 1 8 l 1
+ 1 10 l 1
+ 7 10 l 1
+ 7 8 l 1
+ 9 8 l 9
+ 9 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 15 8 l 25
+ 15 6 l 25
+ 13 6 l 25
+ 13 4 l 25
+ 11 4 l 25
+ 11 2 l 17
+ 13 2 l 1
+ 13 0 l 1
+ 15 0 l 1
+ 15 -2 l 1
+ 13 -2 l 1
+ 13 -4 l 1
+ 9 -4 l 1
+ 9 -2 l 5
+ 11 -2 l 1
+ 11 0 l 1
+ 9 0 l 1
+ 9 2 l 1
+ 7 2 l 9
+ 7 0 l 25
+ 3 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni037C
+Encoding: 892 892 545
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 4 m 29
+ 11 4 l 25
+ 11 6 l 25
+ 7 6 l 25
+ 7 4 l 29
+13 0 m 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 13 10 l 25
+ 13 8 l 25
+ 5 8 l 25
+ 5 2 l 25
+ 13 2 l 25
+ 13 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni037D
+Encoding: 893 893 546
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 545 892 S -1 0 0 1 14 0 2
+EndChar
+
+StartChar: uni03FE
+Encoding: 1022 1022 547
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 4 m 25
+ 7 4 l 25
+ 7 10 l 25
+ 11 10 l 25
+ 11 4 l 25
+13 0 m 29
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 12 l 25
+ 3 12 l 25
+ 3 14 l 25
+ 13 14 l 25
+ 13 12 l 25
+ 5 12 l 25
+ 5 2 l 25
+ 13 2 l 29
+ 13 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: uni03FF
+Encoding: 1023 1023 548
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 547 1022 S -1 0 0 1 14 0 2
+EndChar
+
+StartChar: uni03E1
+Encoding: 993 993 549
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 6 m 29
+ 5 6 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 29
+13 0 m 25
+ 9 0 l 25
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 5 2 l 25
+ 5 4 l 25
+ 1 4 l 25
+ 1 6 l 25
+ 3 6 l 25
+ 3 8 l 25
+ 1 8 l 25
+ 1 10 l 25
+ 9 10 l 25
+ 9 8 l 25
+ 11 8 l 25
+ 11 6 l 25
+ 13 6 l 25
+ 13 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni03E0
+Encoding: 992 992 550
+Width: 14
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 0 m 29
+ 9 0 l 25
+ 9 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 5 2 l 25
+ 5 4 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 9 6 l 25
+ 9 10 l 25
+ 7 10 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 6 l 25
+ 1 6 l 25
+ 1 8 l 25
+ 3 8 l 25
+ 3 10 l 25
+ 5 10 l 25
+ 5 12 l 25
+ 1 12 l 25
+ 1 14 l 25
+ 9 14 l 25
+ 9 12 l 25
+ 11 12 l 25
+ 11 10 l 25
+ 13 10 l 25
+ 13 0 l 29
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
