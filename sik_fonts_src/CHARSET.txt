@@ -42,6 +42,7 @@ Video Glau:
    - U+0100..U+017F Latin Extended A
    - U+0370..U+03FF Greek
    - U+0400..U+045F Cyrillic (lower part)
+   - U+2000..U+206F General punctuation
    - U+2190..U+21FF Arrows
    - U+2500..U+257F Box drawing
    - U+2580..U+259F Solid blocks
