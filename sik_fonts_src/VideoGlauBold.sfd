@@ -5,8 +5,8 @@ FamilyName: Video Glau
 Weight: Bold
 Copyright: Made by Sik in 2015,2016\nDo whatever you want with this font, no credit needed
 UComments: "2015-5-25: Created." 
-FontLog: "1.9 - General punctuation+AAoA-1.8 - UI elements+AAoA-1.7 - Greek+AAoA-1.6 - Lower Cyrillic+AAoA-1.5 - Tifinagh+AAoA-1.44 - Fixing glitches+AAoA-1.43 - Metadata update+AAoA-1.42 - Changed copyright+AAoA-1.41 - Line height fix+AAoA-1.4 - Arrows+AAoA-1.33 - Solid blocks+AAoA-1.32 - Minor : and ; fix+AAoA-1.31 - Bold version+AAoA-1.3 - Box drawing+AAoA-1.2 - Latin Extended A+AAoA-1.1 - Latin-1+AAoA-1.0 - ASCII" 
-Version: 1.9
+FontLog: "1.91 - Fixed U+-2004+AAoA-1.9 - General punctuation+AAoA-1.8 - UI elements+AAoA-1.7 - Greek+AAoA-1.6 - Lower Cyrillic+AAoA-1.5 - Tifinagh+AAoA-1.44 - Fixing glitches+AAoA-1.43 - Metadata update+AAoA-1.42 - Changed copyright+AAoA-1.41 - Line height fix+AAoA-1.4 - Arrows+AAoA-1.33 - Solid blocks+AAoA-1.32 - Minor : and ; fix+AAoA-1.31 - Bold version+AAoA-1.3 - Box drawing+AAoA-1.2 - Latin Extended A+AAoA-1.1 - Latin-1+AAoA-1.0 - ASCII" 
+Version: 1.91
 DefaultBaseFilename: VideoGlauBold
 ItalicAngle: 0
 UnderlinePosition: -6
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1432590718
-ModificationTime: 1475942427
+ModificationTime: 1477024792
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
