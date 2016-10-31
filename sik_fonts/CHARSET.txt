@@ -8,6 +8,9 @@ Decolue:
    - U+0370..U+03FF Greek
    - U+0400..U+045F Cyrillic (lower part)
 
+Diamonaire:
+   - U+0000..U+00FF ASCII and Latin-1
+
 Funstella:
    - U+0000..U+00FF ASCII and Latin-1
    - U+3040..U+30FF Hiragana and katakana
