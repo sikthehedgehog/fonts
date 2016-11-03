@@ -11,6 +11,7 @@ Decolue:
 
 Diamonaire:
    - U+0000..U+00FF ASCII and Latin-1
+   - U+0100..U+017F Latin Extended A
 
 Funstella:
    - U+0000..U+00FF ASCII and Latin-1
